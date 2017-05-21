@@ -1,0 +1,14 @@
+{
+  "name": "made-in-generator",
+  "version": "0.0.0",
+  "description": "Geneator of made-in-xxx",
+  "main": "index.js",
+  "author": "Suguru Motegi",
+  "homepage": "https://github.com/suguru03/made-in-generator",
+  "license": "MIT",
+  "dependencies": {
+    "aigle": "^1.4.0",
+    "gh.js": "^3.0.10",
+    "lodash": "^4.13.1"
+  }
+}
