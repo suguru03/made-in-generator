@@ -1,6 +1,7 @@
 # Made-In-Generator
 
 The repository is inspired by [@IonicaBizau/made-in](https://github.com/IonicaBizau/made-in).
+
 It supports getting developers and repositories on github and making documantation.
 
 ## Usage
@@ -37,7 +38,7 @@ return new MadeIn({ token })
 $ npm init
 ```
 
-The `package.json` must have `homepage`. It is used for documentation links.
+The `package.json` has to have `homepage`. It will be used for documentation links.
 
 ```js
 const { makeDocs } = require('made-in-generator');
